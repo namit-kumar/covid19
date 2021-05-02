@@ -6,7 +6,9 @@
 - https://indiacovidsupport.com/
 - http://www.covidsearch.live/
 - http://t.me/ICLUcovidresponse (telegram channel)
-
+- https://covidcare.channelier.com/
+- https://external.sprinklr.com/insights/explorer/dashboard/601b9e214c7a6b689d76f493/tab/5?id=DASHBOARD_601b9e214c7a6b689d76f493&home=1
+- 
 # Organizations Helping with Covid
 - https://twitter.com/Hemkunt_Fdn
 - https://twitter.com/iclu_ind
